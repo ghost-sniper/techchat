@@ -1,4 +1,4 @@
-module proto
+module github.com/ghost-sniper/techchat/proto
 
 go 1.16
 
